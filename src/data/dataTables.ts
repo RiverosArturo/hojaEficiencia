@@ -656,7 +656,7 @@ export const tablas: TablaEficiencia = {
     { rango: [1, 34], valor: 38 },
     { rango: [35, 39], valor: 10 },
     { rango: [40, 40], valor: 5 },
-  ], 
+  ],
   "5480": [
     { rango: [1, 12], valor: 82 },
     { rango: [13, 24], valor: 79 },
@@ -674,7 +674,7 @@ export const tablas: TablaEficiencia = {
     { rango: [14, 14], valor: 5 },
   ],
   "42770": [
-    { rango: [1, 26], valor: 46},
+    { rango: [1, 26], valor: 46 },
     { rango: [27, 39], valor: 45 },
     { rango: [40, 45], valor: 48 },
     { rango: [46, 47], valor: 19 },
@@ -687,7 +687,7 @@ export const tablas: TablaEficiencia = {
     { rango: [57, 58], valor: 2 },
   ],
   "42769": [
-    { rango: [1, 39], valor: 45},
+    { rango: [1, 39], valor: 45 },
     { rango: [40, 45], valor: 44 },
     { rango: [46, 47], valor: 18 },
     { rango: [48, 49], valor: 15 },
@@ -695,31 +695,31 @@ export const tablas: TablaEficiencia = {
     { rango: [52, 52], valor: 11 },
   ],
   "42722": [
-    { rango: [1, 44], valor: 50},
+    { rango: [1, 44], valor: 50 },
     { rango: [45, 55], valor: 25 },
     { rango: [56, 57], valor: 19 },
     { rango: [58, 59], valor: 8 },
     { rango: [60, 60], valor: 11 },
   ],
   "42703": [
-    { rango: [1, 34], valor: 45},
+    { rango: [1, 34], valor: 45 },
     { rango: [35, 42], valor: 40 },
     { rango: [43, 44], valor: 11 },
     { rango: [45, 45], valor: 5 },
   ],
   "42768": [
-    { rango: [1, 13], valor: 51},
+    { rango: [1, 13], valor: 51 },
     { rango: [14, 20], valor: 20 },
     { rango: [21, 22], valor: 10 },
     { rango: [23, 23], valor: 4 },
   ],
   "42848": [
-    { rango: [1, 18], valor: 52},
+    { rango: [1, 18], valor: 52 },
     { rango: [19, 36], valor: 54 },
     { rango: [37, 37], valor: 34 },
   ],
   "42934": [
-    { rango: [1, 42], valor: 50},
+    { rango: [1, 42], valor: 50 },
     { rango: [43, 46], valor: 14 },
     { rango: [47, 48], valor: 8 },
     { rango: [49, 49], valor: 3 },
@@ -730,12 +730,12 @@ export const tablas: TablaEficiencia = {
     { rango: [31, 31], valor: 22 },
   ],
   "42778": [
-    { rango: [1, 8], valor: 47},
+    { rango: [1, 8], valor: 47 },
     { rango: [9, 13], valor: 24 },
     { rango: [14, 14], valor: 2 },
   ],
   "42779": [
-    { rango: [1, 36], valor: 50},
+    { rango: [1, 36], valor: 50 },
     { rango: [37, 37], valor: 13 },
   ],
   "5527": [
@@ -745,12 +745,12 @@ export const tablas: TablaEficiencia = {
     { rango: [38, 38], valor: 11 },
   ],
   "42841": [
-    { rango: [1, 15], valor: 41},
+    { rango: [1, 15], valor: 41 },
     { rango: [16, 30], valor: 40 },
     { rango: [31, 31], valor: 12 },
   ],
   "42844": [
-    { rango: [1, 30], valor: 46},
+    { rango: [1, 30], valor: 46 },
     { rango: [31, 45], valor: 47 },
     { rango: [46, 46], valor: 21 },
   ],
@@ -786,5 +786,48 @@ export const tablas: TablaEficiencia = {
   "13463": [
     { rango: [1, 20], valor: 61 },
     { rango: [21, 21], valor: 4 },
+  ],
+  "43148": [
+    { rango: [1, 40], valor: 50 },
+    { rango: [41, 49], valor: 33 },
+    { rango: [50, 51], valor: 13 },
+    { rango: [52, 53], valor: 9 },
+    { rango: [54, 54], valor: 8 },
+  ],
+  "43149": [
+    { rango: [1, 36], valor: 50 },
+    { rango: [37, 48], valor: 9 },
+    { rango: [49, 49], valor: 6 },
+  ],
+  "43150": [
+    { rango: [1, 36], valor: 50 },
+    { rango: [37, 48], valor: 6 },
+    { rango: [49, 49], valor: 10 },
+  ],
+  "42954": [
+    { rango: [1, 25], valor: 51 },
+    { rango: [26, 50], valor: 50 },
+    { rango: [51, 56], valor: 15 },
+    { rango: [57, 58], valor: 13 },
+    { rango: [59, 60], valor: 5 },
+    { rango: [61, 61], valor: 9 },
+    { rango: [62, 62], valor: 6 },
+  ],
+  "43040": [
+    { rango: [1, 34], valor: 41 },
+    { rango: [35, 41], valor: 25 },
+    { rango: [42, 42], valor: 12 },
+  ],
+  "42955": [
+    { rango: [1, 25], valor: 49 },
+    { rango: [26, 31], valor: 9 },
+    { rango: [32, 33], valor: 5 },
+    { rango: [34, 34], valor: 9 },
+  ],
+  "43147": [
+    { rango: [1, 40], valor: 49 },
+    { rango: [41, 49], valor: 26 },
+    { rango: [50, 51], valor: 15 },
+    { rango: [52, 52], valor: 13 },
   ],
 };
