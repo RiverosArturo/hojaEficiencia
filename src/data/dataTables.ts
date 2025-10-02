@@ -1017,5 +1017,32 @@ export const tablas: TablaEficiencia = {
     { rango: [50, 51], valor: 9 },
     { rango: [52, 52], valor: 10 },
   ],
-
+  "43434": [
+    { rango: [1, 21], valor: 44 },
+    { rango: [22, 63], valor: 43 },
+    { rango: [64, 68], valor: 28 },
+    { rango: [69, 69], valor: 12 },
+  ],
+  "43562": [
+    { rango: [1, 8], valor: 39 },
+    { rango: [9, 14], valor: 25 },
+    { rango: [15, 15], valor: 2 },
+  ],
+  "43465": [
+    { rango: [1, 8], valor: 47 },
+    { rango: [9, 12], valor: 25 },
+    { rango: [13, 13], valor: 6 },
+    { rango: [14, 21], valor: 3 },
+  ],
+  "43556": [
+    { rango: [1, 8], valor: 46 },
+    { rango: [9, 12], valor: 25 },
+    { rango: [13, 13], valor: 3 },
+  ],
+  "43435": [
+    { rango: [1, 63], valor: 44 },
+    { rango: [64, 68], valor: 32 },
+    { rango: [69, 69], valor: 9 },
+    { rango: [70, 70], valor: 3 },
+  ],
 };
